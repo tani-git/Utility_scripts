@@ -5,8 +5,8 @@ This repository contains the command for different utility scripts for computer 
 ### Project Structure
 
 ```
-├── Code-Base	# Different utility code.
-├── Readme		# Readme for installation command.
+├── Code-Base   # Different utility code.
+├── Readme      # Readme for installation command.
 
 ```
 
